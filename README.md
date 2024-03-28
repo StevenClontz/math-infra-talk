@@ -140,12 +140,38 @@ Participants came from several different backgrounds: established mathematicians
 
 ---
 
+## My cyberinfrastructure work
 
+Before tenure: hobby
 
+Post tenure: *scholarship* ✨✨ (in my heart at least)
 
+Two in particular:
 
+- $\pi$-Base
+- ScholarLattice
 
+---
 
+## $\pi$-Base
+
+<https://topology.pi-base.org>
+
+![center w:600px](image-5.png)
+
+---
+
+## ScholarLattice
+
+<https://scholarlattice.org>
+
+![center w:600px](scholarlattice_tikz.png)
+
+---
+
+# <!--fit--> Thanks!
+
+# <!--fit--> Questions?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
